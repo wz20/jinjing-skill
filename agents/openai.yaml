@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jinjing Route Planner"
+  short_description: "高德避让坐标路线规划"
+  default_prompt: "Use $jinjing to plan an Amap driving route that avoids the Jinjing JSON coordinates."
+policy:
+  allow_implicit_invocation: true
